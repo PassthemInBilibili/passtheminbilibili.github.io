@@ -1,0 +1,25 @@
+.center-box {
+    background-color: white;
+    margin: 0 auto;
+}
+
+body {
+    background-color: skyblue;
+}
+
+.wz-container {
+    padding: 0 30px;
+}
+
+.wz-box {
+    border: solid 1px #ccc;
+    font-size: smaller;
+}
+
+.wz-box-title,.wz-box-time {
+    color: grey; 
+}
+
+.wz-box-title a {
+    text-decoration: none;
+}
