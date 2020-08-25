@@ -1,23 +1,32 @@
 .center-box {
     background-color: white;
     margin: 0 auto;
+    max-width: 1000px;
+    font-size: 24px;
+    padding: 30px;
 }
 
 body {
     background-color: skyblue;
 }
 
+.p-title {
+    font-size: 40px;
+    border-bottom: solid 2px #6666ee;
+}
+
 .wz-container {
     padding: 0 30px;
+    margin: 30px 0;
 }
 
 .wz-box {
     border: solid 1px #ccc;
-    font-size: smaller;
 }
 
 .wz-box-title,.wz-box-time {
     color: grey; 
+    padding: 20px;
 }
 
 .wz-box-title a {
